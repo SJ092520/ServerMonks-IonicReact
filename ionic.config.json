@@ -1,0 +1,7 @@
+{
+  "name": "ServerMonks-IonicReact",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
